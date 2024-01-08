@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+$sm-breakpoint: 576px
+$md-breakpoint: 768px
+$lg-breakpoint: 1024px
+$xl-breakpoint: 1200px
+
+@mixin sm-breakpoint
+  @media only screen and (min-width: $sm-breakpoint)
+    @content
+
+@mixin md-breakpoint
+  @media only screen and (min-width: $md-breakpoint)
+    @content
+
+@mixin lg-breakpoint
+  @media only screen and (min-width: $lg-breakpoint)
+    @content
+
+@mixin xl-breakpoint
+  @media only screen and (min-width: $xl-breakpoint)
+    @content
+
+
+
+
+// @include lg-breakpoint
+//   @content  
