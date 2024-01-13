@@ -1,4 +1,4 @@
-<?php include './inc/head-2.php'; ?>
+<?php include './inc/alternate.php'; ?>
 
   <section class="page">
     <article class="article-content typo">

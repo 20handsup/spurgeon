@@ -1,6 +1,8 @@
-<hr>
-<p><strong>“Clouds and darkness surround Him…” – Psalm 97:9</strong></p>
-<hr>
+<div class="leadIn">
+  <hr>
+  <p><strong>“Clouds and darkness surround Him…” – Psalm 97:9</strong></p>
+  <hr>
+</div>
 <p>
   A person who has not been born again by the Spirit of God will tell you that
   the teachings of Jesus are simple. But when he is baptized by the Holy Spirit,
@@ -24,6 +26,4 @@
   way God speaks to us; not by visions and dreams, but by words. When a man gets
   to God, it is by the most simple way—words.
 </p>
-<p>
-  <strong><em>From: My Utmost for His Highest</em></strong>
-</p>
+

@@ -1,9 +1,11 @@
-<hr>
-<p>
-  <em>“Better is the end of thing than the beginning thereof.” —
-    Ecclesiastes 7:8</em>
-</p>
-<hr>
+<div class="leadIn">
+  <hr>
+  <p>
+    “Better is the end of thing than the beginning thereof.” —
+      Ecclesiastes 7:8
+  </p>
+  <hr>
+</div>
 <p>
   Look at David’s Lord and Master; see His beginning. He ws despised and
   rejected of men; a man of sorrows and acquainted with grief. Would you see the

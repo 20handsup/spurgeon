@@ -1,6 +1,8 @@
-<hr>
-<p><em>"The glory of the Lord shall be revealed, and all flesh shall see it together." &mdash; Isaiah 40:5</em></p>
-<hr>
+<div class="leadIn">
+  <hr>
+  <p>"The glory of the Lord shall be revealed, and all flesh shall see it together." &mdash; Isaiah 40:5</p>
+  <hr>
+</div>
 <p>
   We anticipate the day when the whole world shall be converted to Christ; when the gods of the heathen shall be cast to the moles and the bats; when Romanism shall be exploded, and the crescent of Mohammed shall want, never again to cast its baleful rays upon the nations; when kings shall bow down before the Prince of Peace, and all nations shall call their Redeemer blessed.  Some despair of this.  They look upon thw world as a vessel breaking up and going to pieces, never to float again.  We know that the world and all that is therein is one day to be burnt up, and afterwards we look for new heavens and for a new earth, but we cannot read our Bibles without the convictions that &mdash;</p>
 

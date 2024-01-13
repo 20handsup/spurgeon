@@ -1,6 +1,8 @@
-<hr>
-<p><em>“He answered him to never a word.” — Matthew 27:14</em></p>
-<hr>
+<div class="leadIn">
+  <hr>
+  <p>“He answered him to never a word.” — Matthew 27:14</p>
+  <hr>
+</div>
 <p>
   He had never been slow of speech when He could bless the sons of men, but He
   would not say a single word for Himself. “Never man spake like this Man,” and

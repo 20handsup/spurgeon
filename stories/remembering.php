@@ -1,6 +1,8 @@
-<hr>
-<p><em>“And I will remember My covenant.” — Genesis 9:15</em></p>
-<hr>
+<div class="leadIn">
+  <hr>
+  <p>“And I will remember My covenant.” — Genesis 9:15</p>
+  <hr>
+</div>
 <p>
   Mark the form of the promise. God does not say, “And when ye shall look upon
   the bow, and ye shall remember My covenant, <em>then</em> I will not destroy

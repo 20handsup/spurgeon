@@ -1,6 +1,8 @@
-<hr>
-<p><em>“If so be ye have tasted that the Lord is gracious.” — 1 Peter 2:3</em></p>
-<hr>
+<div class="leadIn">
+  <hr>
+  <p>“If so be ye have tasted that the Lord is gracious.” — 1 Peter 2:3</p>
+  <hr>
+</div>
   <p>If — then, this is not a matter to be take for granted concerning every one of the human race. “If:” — then there
     is a possibility and a probability that some may not have tasted that the Lord is gracious. “IF:” — then this is not
     a general but a special mercy; and it is needful to enquire whether we know the grace of God by inward experience.

@@ -1,7 +1,9 @@
-<hr>
-<p><strong><em>Praying in the Holy Ghost
-      — Jude 20</em></strong></p>
-<hr>
+<div class="leadIn">
+  <hr>
+  <p><b>Praying in the Holy Ghost
+        — Jude 20</b></p>
+  <hr>
+</div>
 <p>Mark the grand characteristic of true prayer—<em>“In the Holy Ghost.”</em>
   The seed of acceptable devotion must come from heaven’s storehouse. Only the
   prayer which comes from God can go to God. We must shoot the Lord’s arrows
@@ -27,4 +29,5 @@
   Spirit is the author of faith, and strengthens it, so that we pray believing
   God’s promise. O that this blessed combination of excellent might be fragrant
   within us because the Holy Ghost is in our hearts! Most blessed Comforter,
-  exert Thy mighty power within us, helping our infirmities in prayer.</p>
+  exert Thy mighty power within us, helping our infirmities in prayer.
+</p>

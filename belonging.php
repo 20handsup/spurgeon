@@ -3,7 +3,7 @@
 
     <section class="page">
     <article class="article-content typo">
-      <?php include './stories/belonging.php'; ?>
+      <?php include './stories/nine.php'; ?>
     </article>
     
     <?php include './inc/aside.php'; ?>

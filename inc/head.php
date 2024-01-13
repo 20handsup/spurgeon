@@ -22,10 +22,10 @@
   <div class="wrapper">
     <header>
       <h1>
-        Oswald Chambers
+        Charles Haddon Spurgeon
       </h1>
       <h2 style="padding-left: 3rem">
-        <em>My Utmost for His Highest</em>
+        <em>Morning &amp; Evening</em>
       </h2>
       <figure>
         <img src="media/chs.webp" alt="Charles H. Spurgeon">

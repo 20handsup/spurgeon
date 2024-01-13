@@ -1,7 +1,9 @@
-<hr>
-<p><em>“I am the door: by Me if any man enter in, he shall be saved, and shall
-    go in and out, and find pasture.” — John 10:9</em></p>
-<hr>
+<div class="leadIn">
+  <hr>
+  <p>“I am the door: by Me if any man enter in, he shall be saved, and shall
+      go in and out, and find pasture.” — John 10:9</p>
+  <hr>
+</div>
 <p>Jesus, the great I AM, is the entrance into the true church, and thw way of
   access to God Himself. He gives to the man who comes to God by Him four choice
   privileges.</p>

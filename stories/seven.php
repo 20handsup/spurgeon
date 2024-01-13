@@ -1,6 +1,8 @@
-<hr>
-<p><em>“Whom He justified, them He also Glorified.” — Romans 8:30</em></p>
-<hr>
+<div class="leadIn">
+  <hr>
+  <p>“Whom He justified, them He also Glorified.” — Romans 8:30</p>
+  <hr>
+</div>
 <p>There is a precious truth for thee, believer. “Thou mayest be poor, or in suffering, or unknown, but for thine
   encouragement take a review of thy "calling" and the consequences that flow from it, and especially that thou are
   God&rsquo;s child today, so surely shall all thy trials soon be at an end, and them shalt be rich to all the intents of

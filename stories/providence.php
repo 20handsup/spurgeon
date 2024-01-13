@@ -1,6 +1,8 @@
-<hr>
-<p><em>The Lord tries the righteous.” — Psalm 11:5</em></p>
-<hr>
+<div class="leadIn">
+  <hr>
+  <p>The Lord tries the righteous.” — Psalm 11:5</p>
+  <hr>
+</div>
 <p>
   All events are under the control of Providence; consequently all the trials of
   our outward life are traceable at once to the great First Cause. Out of the

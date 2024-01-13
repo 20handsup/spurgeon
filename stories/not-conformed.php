@@ -1,8 +1,10 @@
-<hr>
-<p>
-  <em>“And be not conformed to this world.” — Romans 12:2</em>
-</p>
-<hr>
+<div class="leadIn">
+  <hr>
+  <p>
+    “And be not conformed to this world.” — Romans 12:2
+  </p>
+  <hr>
+</div>
 <p>If a Christian can by possibility be saved while he conforms to this world,
   at any rate it must be so as by fire. Such a bare salvation is almost as much
   to be dreaded as desired. Reader, would you wish to leave this world and enter

@@ -1,6 +1,8 @@
-<hr>
-<p><em>“He will give grace and glory.” — Psalm 8:41</em></p>
-<hr>
+<div class="leadIn">
+  <hr>
+  <p>“He will give grace and glory.” — Psalm 8:41</p>
+  <hr>
+</div>
 <p>Bounteous is Jehovah in His nature; to give is His delight. His gifts are
   beyond measure precious, and are as freely given as the light of the sun. He
   gives grace to His elect because he wills it, to His redeemed because of His
