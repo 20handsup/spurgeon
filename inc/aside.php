@@ -19,7 +19,8 @@
           <li><a href="joint-heirs">Joint Heirs</a></li>
           <li><a href="bear-the-cross">Bear The Cross</a></li>
           <li><a href="clouds-and-darkness">Clouds and Darkness</a></li>
-          <ul>
+          <li><a href="called-by-god">Called by God</a></li>
+        <ul>
       </aside>
     </section>
   </div>
