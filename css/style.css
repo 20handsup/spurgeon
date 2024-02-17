@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 header {
@@ -82,6 +83,7 @@ blockquote {
 }
 
 figure {
+  max-width: 100%;
   margin: 0 auto;
   padding: 0;
 }
@@ -89,6 +91,7 @@ figure {
 img {
   display: block;
   margin-inline: auto;
+  max-width: 100%;
 }
 
 li {

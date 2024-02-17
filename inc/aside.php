@@ -20,6 +20,10 @@
           <li><a href="bear-the-cross">Bear The Cross</a></li>
           <li><a href="clouds-and-darkness">Clouds and Darkness</a></li>
           <li><a href="called-by-god">Called by God</a></li>
+          <li><a href="what-god-recalls">Recalls What God Remembers</a></li>
+          <li><a href="someone-so-ignorant">How Could Someone Be So Ignorant!</a></li>
+          <li><a href="his-majesty">The Compelling Majesty of His Power</a></li>
+          <li><a href="listen-to-god">Are You Listening to God</a></li>
         <ul>
       </aside>
     </section>
