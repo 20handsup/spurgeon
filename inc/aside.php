@@ -24,6 +24,7 @@
           <li><a href="someone-so-ignorant">How Could Someone Be So Ignorant!</a></li>
           <li><a href="his-majesty">The Compelling Majesty of His Power</a></li>
           <li><a href="listen-to-god">Are You Listening to God</a></li>
+          <li><a href="inspiration-spiritual">The Inspiration of Spiritual Initiative</a></li>
         <ul>
       </aside>
     </section>

@@ -20,7 +20,7 @@
   </li>
   <li>
     <p><em>He shall go in.</em> He shall be privileged to go in among the divine
-      family, sharing the children’s bread, and participating in all their
+      family, sharing the children&apos;s bread, and participating in all their
       honours and enjoyments. He shall go in to the chambers of communion, to
       the banquets of love, to the treasures of the covenant, to the storehouses
       of the promises. He shall go in unto the King of kings in the power of the
