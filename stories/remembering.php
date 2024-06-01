@@ -32,5 +32,6 @@
   our safety does not hang there — it is God&rsquo;s remembering us, not our
   remembering God.
 </p>
-
-
+<script>
+  document.title = 'I will remember My Covenant';
+</script>

@@ -1,7 +1,7 @@
 <div class="leadIn">
   <hr>
   <p><b>Praying in the Holy Ghost
-        — Jude 20</b></p>
+      — Jude 20</b></p>
   <hr>
 </div>
 <p>Mark the grand characteristic of true prayer—<em>“In the Holy Ghost.”</em>
@@ -31,3 +31,6 @@
   within us because the Holy Ghost is in our hearts! Most blessed Comforter,
   exert Thy mighty power within us, helping our infirmities in prayer.
 </p>
+<script>
+  document.title = 'Fervent Prayer';
+</script>

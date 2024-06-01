@@ -1,12 +1,13 @@
 <div class="leadIn">
-  <hr>  
+  <hr>
   <h2>
     “Arise from the dead…” (Ephesians 5:14)
   </h2>
   <hr>
 </div>
 <p>
-  Not all initiative, the willingness to take the first step, is inspired by God.
+  Not all initiative, the willingness to take the first step, is inspired by
+  God.
   Someone may say to you, “Get up and get going! Take your reluctance by the
   throat and throw it overboard—just do what needs to be done! That is what we
   mean by ordinary human initiative. But when the Spirit of God comes to us and
@@ -14,7 +15,7 @@
   is inspired.
 </p>
 <p>
-  We al have many dreams and aspirations when we are young, but sooner or later
+  We all have many dreams and aspirations when we are young, but sooner or later
   we realize we have no power to accomplish them. We cannot do the things we
   long to do, so our tendency is to think of our dreams and aspirations as dead.
   But God comes and says to us, “Arise from the dead…”When God sends His
@@ -30,3 +31,6 @@
   that we have the inspiration of God, because He immediately gives us power of
   life.
 </p>
+<script>
+  document.title = 'Arise from the dead…';
+</script>

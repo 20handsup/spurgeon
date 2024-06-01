@@ -31,3 +31,6 @@
   to be the true Lamb of God. As such we salute Him this morning. Be with us,
   Jesus, and in the silence of our heart, let us hear the voice of Thy love.
 </p>
+<script>
+  document.title = 'Two';
+</script>

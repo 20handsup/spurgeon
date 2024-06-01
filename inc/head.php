@@ -19,7 +19,7 @@
 </head>
 
 <body>
-  <div class="page">
+  <div class="wrapper">
     <header>
       <h1>
         Charles Haddon Spurgeon

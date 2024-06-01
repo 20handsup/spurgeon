@@ -30,3 +30,6 @@
   value can be known. Thus it is well that Jehovah tries the righteous, for it
   causes them to grow rich towards God.
 </p>
+<script>
+  document.title = 'Trying the Righteous';
+</script>

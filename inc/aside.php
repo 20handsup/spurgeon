@@ -25,6 +25,8 @@
           <li><a href="his-majesty">The Compelling Majesty of His Power</a></li>
           <li><a href="listen-to-god">Are You Listening to God</a></li>
           <li><a href="inspiration-spiritual">The Inspiration of Spiritual Initiative</a></li>
+          <li><a href="possession-soul">Taking Possession of Our Own Soul</a></li>
+          <li><a href="prayer-jesus-taught">Thinking of Prayer as Jesus Taught</a></li>
         <ul>
       </aside>
     </section>

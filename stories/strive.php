@@ -32,3 +32,6 @@
   that unbelief has “as many lives as a cat:” if so, let us kill one life now,
   and continue the work till the whole nine
   are gone. Down with thee, thou traitor, my heart abhors thee.</p>
+<script>
+  document.title = 'Strive';
+</script>

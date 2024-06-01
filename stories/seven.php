@@ -36,3 +36,6 @@
     With God eternally shut in,”</p>
 </blockquote>
 <p>thou shalt rest for ever and ever.</p>
+<script>
+  document.title = 'Whom He Justified, He also Glorified';
+</script>
