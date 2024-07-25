@@ -15,6 +15,7 @@
     h1, h2 {
       font-family: Junge, serif;
     }
+    
   </style>
 </head>
 
@@ -24,10 +25,10 @@
       <h1>
         Oswald Chambers
       </h1>
-      <h2 style="padding-left: 3rem">
+      <h2 style="padding-left: 3rem;">
         <em>My Utmost for His Highest</em>
       </h2>
       <figure>
-        <img src="media/oswald-chambers.jpg" alt="Oswald Chambers">
+        <img src="media/oswald-chambers.png" alt="Oswald Chambers">
       </figure>
     </header>

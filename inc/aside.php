@@ -3,7 +3,7 @@
           <li><a href="index">Home</a></li>
           <li><a href="blindness-love">Blindness Love</a></li>
           <li><a href="strive">Strive</a></li>
-          <li><a href="two">Two</a></li>
+          <li><a href="two">The Silent Man</a></li>
           <li><a href="six">Six</a></li>
           <li><a href="seven">Seven</a></li>
           <li><a href="remembering">Remembering</a></li>
@@ -27,7 +27,11 @@
           <li><a href="inspiration-spiritual">The Inspiration of Spiritual Initiative</a></li>
           <li><a href="possession-soul">Taking Possession of Our Own Soul</a></li>
           <li><a href="prayer-jesus-taught">Thinking of Prayer as Jesus Taught</a></li>
-        <ul>
+          <li><a href="drawing-on-grace">Drawing of the Grace of God...Now</a></li>
+          <li><a href="difficult">All Efforts of Worth and Excellence Are Difficult</a></li>
+          <li><a href="lifes-spiritual-honor">Life's Spiritual Honor &amp; Duty</a></li>
+          <li><a href="theDoorway">The Doorway to the Kingdom &amp; Duty</a></li>
+          <ul>
       </aside>
     </section>
   </div>

@@ -10,16 +10,17 @@ header
   margin: 1rem auto
   @include lg-breakpoint
     max-width: 50vw
+  
 
 .page
   display: flex
-  flex-direction: row
-  max-width: 50vw
+  flex-direction: column
+  max-width: 100%
   margin: 0 auto
-  // @include lg-breakpoint
-  //   flex-direction: row
-  //   max-width: 65vw
-  //   margin: 0 auto
+  @include md-breakpoint
+    flex-direction: row
+    max-width: 60vw
+    margin: 0 auto
 
 .typo
   font-family: 'Roboto', Helvetica, sans-serif
@@ -32,26 +33,28 @@ h2,
 hr
   margin-block: 1rem
 
+
+
 .article-content
-  max-width: 25vw
+  max-width: 100%
   margin-left: auto
   margin-right: auto
   padding: 1rem
-  @include lg-breakpoint
-    max-width: 35vw
+  @include md-breakpoint
+    max-width: 100%
 
 p
   margin-bottom: 2rem
 
 .aside-content
-  max-width: 25vw
+  min-width: 25vw
   margin-left: auto
   margin-right: auto
   padding-top: 1.5rem
   line-height: 1.5
   text-align: center
-  @include lg-breakpoint
-    max-width: 50vw
+  @include md-breakpoint
+    max-width: 100%
 
 .foot
   max-width: 100vw

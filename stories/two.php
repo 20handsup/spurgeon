@@ -1,6 +1,6 @@
 <div class="leadIn">
   <hr>
-  <p>“He answered him to never a word.” — Matthew 27:14</p>
+  <h3>“He answered him to never a word.” — Matthew 27:14</h3>
   <hr>
 </div>
 <p>
@@ -24,7 +24,7 @@
   afford no fuel for the flame os sin. The ambiguous and the false, the unworthy
   and mean, will ere long overthrow and confute themselves, and therefore the
   true can afford to be quiet, and finds silence to be its wisdom. Evidently our
-  Lord, bby His silence, furnished a
+  Lord, by His silence, furnished a
   <em>remarkable fulfillment of prophecy.</em> A long defense of Himself would
   have been contrary to Isaiah's prediction. “He is led as a lamb to the
   slaughter, and as a sheep before her shearers is dumb, so He openeth Himself
