@@ -21,7 +21,7 @@
   breaks a host of hammers by quietly bearing their blows. did not the silent
   Lamb of God furnish us with <em>a ground example of wisdom?</em>
   Where every word was occasion for new blasphemy, it was the line of duty to
-  afford no fuel for the flame os sin. The ambiguous and the false, the unworthy
+  afford no fuel for the flame of sin. The ambiguous and the false, the unworthy
   and mean, will ere long overthrow and confute themselves, and therefore the
   true can afford to be quiet, and finds silence to be its wisdom. Evidently our
   Lord, by His silence, furnished a

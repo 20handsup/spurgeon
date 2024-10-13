@@ -7,14 +7,14 @@
   <hr>
 </div>
 <p>
-  Look at David’s Lord and Master; see His beginning. He ws despised and
+  Look at David’s Lord and Master; see His beginning. He was despised and
   rejected of men; a man of sorrows and acquainted with grief. Would you see the
   end? He sits at His Father’s right hand, expecting until His enemies be made
   his footstool. “As He is, so are we also in this world.” You must bear the
   cross, or you shall never wear the crown; you must wade through the mire, or
   you shall never walk the golden pavement. Cheer up, then, poor Christian,
   “Better is the end than the beginning thereof.” See that creeping worm, how
-  contemptible its appearance! It is the beginning of a ching. Mark that insect
+  contemptible its appearance! It is the beginning of a thing. Mark that insect
   with gorgeous wings, playing in the sunbeams, sipping at the flower bells,
   full of happiness and life; that is the end thereof. That caterpillar is
   yourself, until you are wrapped up in the chrysalis of death, but when Christ

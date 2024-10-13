@@ -27,7 +27,7 @@
   nothing satisfy thee till, by the
   infallible witness of the Holy Spirit bearing witness with thy spirit, thou
   “perhaps” and peradventure” and “if” and
-  “maybe” satisfy thy soul. Build on eternal verities, and verily build upon
+  “maybe” satisfy thy soul. Build on eternal verities, and verity build upon
   them. Get the sure mercies of David, and
   surely get them. Let thine anchor be cast into that which is within the veil,
   and see to it that thy soul be linked

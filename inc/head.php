@@ -25,7 +25,7 @@
         Charles Haddon Spurgeon
       </h1>
       <h2 style="padding-left: 3rem">
-        <em>Morning &amp; Evening</em>
+        <em>Morning and Evening</em>
       </h2>
       <figure>
         <img src="media/chs.webp" alt="Charles H. Spurgeon">

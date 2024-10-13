@@ -2,7 +2,7 @@
 <p><em>Strive with all diligence to keep out that monster unbelief.</em> It so
   dishonors Christ, that He will withdraw
   His visible presence if we insult Him by indulging it. It is true it is a
-  week, the seed of which we can never
+  weak, the seed of which we can never
   entirely extract from the soil, but we must aim at its root with zeal and
   perseverance. Among hateful things it is the
   most to be abhorred. Its injurious nature is so venomous that he that
